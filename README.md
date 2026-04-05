@@ -1,4 +1,5 @@
 # 🔥 FortiGate LAN to DMZ Network Lab
+<img width="1105" height="611" alt="LAB" src="https://github.com/user-attachments/assets/0f1a7c52-9916-4a07-91fb-16094832ff6f" />
 
 ## 📌 Overview
 
